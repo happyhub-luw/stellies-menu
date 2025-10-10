@@ -79,7 +79,7 @@ p{
    margin-bottom: 60px;
 }
 .gallery img{
-    width: 1500px;
+    width: 2000px;
     height: 500px;
     border-radius: 20px;
 }
@@ -123,6 +123,6 @@ footer{
     height: 50px;
     padding-top: 12px;
     padding-bottom: 1px;
-    margin-top: 1500px;
+    margin-top: 2000px;
 
 }
