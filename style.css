@@ -112,6 +112,11 @@ footer p{
 margin-top: 500px;
 }
 
+#space{
+margin-bottom: 5px;
+}
+
+
 footer{
     background-color:rgb(32, 51, 85);
     width: 100%;
