@@ -50,6 +50,19 @@ p{
     top: 0px;
 }
 
+#menu-extra{
+    background-color: rgb(32, 51, 85);
+    width: 100%;
+    height: 60px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: sticky;
+    top: 0px;
+
+}
+
 #menu a{
     color: #ffffff;
     font-family: Helvetica, sans-serif;
@@ -123,7 +136,20 @@ footer{
     background-color:rgb(32, 51, 85);
     width: 100%;
     height: 50px;
+    padding-left: 20px;
     padding-top: 12px;
     padding-bottom: 1px;
     margin-top: 1000px;
+}
+
+#footer-extra{
+    background-color:rgb(32, 51, 85);
+    width: 100%;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 1px;
+    margin-top: 1000px;
+
 }
