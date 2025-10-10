@@ -78,8 +78,13 @@ p{
    margin-top: 2px;
    margin-bottom: 60px;
 }
+<<<<<<< HEAD
+.images{
+    width: 100%;
+=======
 .gallery img{
     width: 1500px;
+>>>>>>> 0f7b679cef10a3cab304fdada153def66d8e4c8f
     height: 500px;
     border-radius: 20px;
 }
@@ -123,6 +128,10 @@ footer{
     height: 50px;
     padding-top: 12px;
     padding-bottom: 1px;
+<<<<<<< HEAD
+    margin-top: 1000px;
+=======
     margin-top: 1500px;
+>>>>>>> 0f7b679cef10a3cab304fdada153def66d8e4c8f
 
 }
