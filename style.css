@@ -89,6 +89,7 @@ p{
 }
 
 .info{
+    font-size: 30px;
     margin-left: 20px;
     margin-top: 50px;
 }
@@ -133,5 +134,5 @@ footer{
     margin-left: 20px;
     padding-top: 12px;
     padding-bottom: 1px;
-    margin-top: 900px;
+    margin-top: 1000px;
 }
